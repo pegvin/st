@@ -54,3 +54,4 @@ dkms.conf
 # Binary
 st
 *.orig
+*.diff
