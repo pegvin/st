@@ -6,6 +6,7 @@ my suckless terminal
 - [fonts2](https://st.suckless.org/patches/font2/st-font2-0.8.5.diff)
 - [boxdraw](https://st.suckless.org/patches/boxdraw/st-boxdraw_v2-0.8.5.diff)
 - [scrollback](https://st.suckless.org/patches/scrollback/st-scrollback-0.8.5.diff)
+- [anysize](https://st.suckless.org/patches/anysize/st-anysize-0.8.4.diff)
 
 ### Other Changes
 - font-size: 16
